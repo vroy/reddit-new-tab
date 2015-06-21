@@ -7,6 +7,6 @@ A simple Chrome extension that makes it easier to browse reddit. Links will open
 
 # Install
 
-* Download [src.crx](https://github.com/vroy/reddit-new-tab/blob/master/src.crx)
+* Download [src.crx](https://github.com/vroy/reddit-new-tab/blob/master/src.crx?raw=true)
 * Head over to chrome://extensions/
 * Drag src.crx over the chrome://extensions page and accept permissions.
